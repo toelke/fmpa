@@ -1,5 +1,5 @@
 # fmpa
-file monitor port access:  This tool watches a directory for files called 4<ipv4-address> or 6<ipv6-address> and will create iptables-rules according to these files.
+file monitor port access:  This tool watches a directory for files called 4[ipv4-address] or 6[ipv6-address] and will create iptables-rules according to these files.
 
 It will add an ACCEPTing rule for every source-ip that is specified as a file. If the file is removed the rule is removed.
 
