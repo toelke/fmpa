@@ -1,4 +1,4 @@
 argh==0.26.1
 pathtools==0.1.2
-PyYAML==3.11
+pyyaml>=4.2b1
 watchdog==0.8.3
